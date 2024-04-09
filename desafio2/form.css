@@ -1,0 +1,50 @@
+body{
+    position: relative;
+    text-align: center;
+    font-family: monospace;
+    font-size: 10px;
+    margin-top: 80px;
+    color:white;
+    user-select: none;
+    background-color: #7e75f8;
+}
+h1{
+    text-transform: uppercase ;
+}
+#card-form{
+    width: 600px;
+    background-color:#3233a8;
+    padding: 30px;
+    margin: auto;
+    font-family: monospace;
+    font-size: 20px;
+    border-radius: 35px;
+    text-align: center;
+    margin-top: 20px;
+}
+#nome, #idade, #linguagem{
+    width: 45%;
+    height: 25px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px;
+    font-family: monospace;
+    font-size: 14px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    background-color: #b8a3fc;
+}
+
+#btn{
+    font-size: 20px;
+    font-family: monospace;
+    width: 20%;
+    height: 38px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    background-color: #191732;
+}
+#btn:hover{
+    background-color:#655ec6;
+}
