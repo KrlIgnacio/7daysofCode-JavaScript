@@ -19,7 +19,7 @@ function carreiraTec(){
         }else if (fullstack === 'n'){
             console.log("Ser especialista em algo é grandioso!");
         }else{
-            console.log("Resposnda com 'N' ou 'S'")
+            console.log("Responda com 'N' ou 'S'")
         }
         tec();
     });
