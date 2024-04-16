@@ -30,3 +30,8 @@ let numeroDez = 10  //  let stringDez = '10' <br>
 ## Dia 6: Remover item da Lista de Compras
 **Inserir uma lógica para remover um item da lista de compras desenvolvida no dia anterior, assim que houver algum item na lista perguntar ao usuario se deseja remover algum item e claro, exibir uma mensagem de acordo com a resposta e a lógica desenvolvida.**<br><br>
 📍[Lógica com JavaScript: Desafio n° 6](./desafio6/removerItem.js)<br>*Agradeço a quem quiser me dar um #feedback7DoC sobre o código! ❤️*
+
+## Dia 7: Calculadora JS
+**O último desafio(sem falhar que falhei hahaha) foi desenvolver um código de uma calculadora em JavaScript, fazendo uso de funções para as operações e estrutura de controle de fluxo.**<br><br>
+📍[Lógica com JavaScript: Desafio n° 7](./desafio7/calculadora.js)<br>*Agradeço a quem quiser me dar um #feedback7DoC sobre o código! ❤️*
+### 🔚 Chegou ao fim dessa jornada de desafios diários desenvolvidos na linguagem mais querida e odiada da década. <br> Fico feliz se este repositório fizer algum sentido para você e for de grande ajuda na sua carreira como profissional em Tecnologia. Sinta-se à vontade para explorá-lo! ❤️
